@@ -1,0 +1,118 @@
+Notebook intel core i5-7200U, 4Gb de RAM, SSD
+
+tempo em segundos e energia em joules
+
+Flag: O0 - Otimização default do compilador GCC
+	-> 640x426 	- Tempo:0.07886 - Energia:0.73730
+	-> 1280x853 	- Tempo:0.37306 - Energia:3.58764
+	-> 5184x3456 	- Tempo:3.89551 - Energia:49.19287
+
+Flag: O2 - Otimização em tamanho de código e tempo de execução nivel 2 (-- tempo de execução, ++ tempo de compilação, + uso de RAM)
+	-> 640x426 	- Tempo:0.08787 - Energia:0.70776
+	-> 1280x853 	- Tempo:0.19402 - Energia:2.59216
+	-> 5184x3456 	- Tempo:4.06649 - Energia:49.42968
+
+Flag: Ofast - Otimização em tamanho de código e tempo de execução nivel 3 com aredondamento em calculos matemáticos (--- tempo de execução, +++ tempo de compilação, ++ uso de RAM)
+	-> 640x426 	- Tempo:0.07722 - Energia:0.69732
+	-> 1280x853 	- Tempo:0.27650 - Energia:2.90203
+	-> 5184x3456 	- Tempo:3.70103 - Energia:47.76770
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+Flag: O0 - Otimização default do compilador GCC
+	-> 640x426 	- Tempo: - Energia:
+	-> 1280x853 	- Tempo: - Energia:
+	-> 5184x3456 	- Tempo: - Energia:
+
+Flag: O2 - Otimização em tamanho de código e tempo de execução nivel 2 (-- tempo de execução, ++ tempo de compilação, + uso de RAM)
+	-> 640x426 	- Tempo: - Energia:
+	-> 1280x853 	- Tempo: - Energia:
+	-> 5184x3456 	- Tempo: - Energia:
+
+Flag: Ofast - Otimização em tamanho de código e tempo de execução nivel 3 com aredondamento em calculos matemáticos (--- tempo de execução, +++ tempo de compilação, ++ uso de RAM)
+	-> 640x426 	- Tempo: - Energia: 
+	-> 1280x853 	- Tempo: - Energia:
+	-> 5184x3456 	- Tempo: - Energia:
